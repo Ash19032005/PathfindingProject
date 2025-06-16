@@ -26,9 +26,8 @@ It serves as an educational tool to help users understand graph traversal and pa
 |------------|-------------|
 | **React.js** | Frontend framework for building the UI |
 | **Tailwind CSS** | Utility-first CSS framework for styling |
-| **JavaScript (ES6+)** | Logic and interactivity |
+| **TypeScript (ES6+)** | Logic and interactivity |
 | **React Hooks** | For managing component state |
-| **Custom DOM/SVG rendering** | No external graph libraries (e.g., D3.js) |
 
 ---
 
